@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<descriptors>
+	<descriptor id="com.khan.spring.templates.mvc" kind="template" local="true" name="Custom Spring MVC Project" size="21655" 
+			url="com.khan.spring.templates.mvc-3.2.2.zip" version="3.2.2" requires="2.8.0" requiresbundle="org.eclipse.m2e.core">
+		<description>
+			A new Spring MVC web application development project
+		</description>
+	</descriptor>
+</descriptors>
