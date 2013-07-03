@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <descriptors>
-	<descriptor id="com.khan.spring.templates.mvc" kind="template" local="true" name="Custom Spring MVC Project" size="21655" 
-			url="https://github.com/khan0405/repository/blob/master/com.khan.spring.templates.mvc-3.2.2.zip" version="3.2.2" requires="2.8.0" requiresbundle="org.eclipse.m2e.core">
+	<descriptor 
+		id="com.khan.spring.templates.mvc" 
+		name="Custom Spring MVC Project" 
+		kind="template" 
+		version="1.0.0" 
+		local="false"
+		requires="2.8.0" 
+		requiresbundle="org.eclipse.m2e.core"
+		size="21655" 
+		url="https://github.com/khan0405/repository/blob/master/com.khan.spring.templates.mvc-1.0.0.zip" >
 		<description>
 			A new Spring MVC web application development project
 		</description>
