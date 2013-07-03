@@ -9,7 +9,7 @@
 		requires="2.8.0" 
 		requiresbundle="org.eclipse.m2e.core"
 		size="21655" 
-		url="https://github.com/khan0405/repository/blob/master/com.khan.spring.templates.mvc-1.0.0.zip" >
+		url="https://github.com/khan0405/repository/raw/master/com.khan.spring.templates.mvc-1.0.0.zip" >
 		<description>
 			A new Spring MVC web application development project
 		</description>
